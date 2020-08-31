@@ -1,3 +1,2 @@
 # voice_ass
-#### This my voice assistant Margo
-#### Version 1.1 BETA
+##### This my voice assistant Margo, version 1.1 BETA
